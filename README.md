@@ -45,6 +45,21 @@ This will start:
 
 ---
 
+## Dashboard
+
+<div align="center">
+    <table>
+        <tr>
+            <td><img src="https://github.com/user-attachments/assets/24b77500-5252-4182-ab58-b7c75ffebc6a" width="300"></td>
+            <td><img src="https://github.com/user-attachments/assets/f76ac9d9-eeff-4c0e-b3a2-1a80f7d0a13d" width="300"></td>
+        </tr>
+        <tr>
+            <td colspan="2" align="center"><img src="https://github.com/user-attachments/assets/fac564bc-2461-4022-ac15-3288d4b6f66f" width="600"></td>
+        </tr>
+    </table>
+</div>
+
+
 ## 📊 Grafana Dashboard Setup  
 1️⃣ **Open Grafana** → `http://localhost:3000`  
 2️⃣ **Go to Dashboards → Import**  
